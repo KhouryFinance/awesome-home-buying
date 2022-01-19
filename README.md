@@ -16,6 +16,8 @@ A compendium of resources for the home buyer who wants to know everything they c
 
 - [House Tours](#house-tours)
 
+- [Make an Offer](#make-an-offer)
+
 - [Escrow and Title](#escrow-and-title)
 
 - [Closing Costs](#closing-costs)
