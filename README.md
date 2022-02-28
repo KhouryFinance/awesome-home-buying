@@ -30,7 +30,7 @@ A compendium of resources for the home buyer who wants to know everything they c
 ## Budgeting
 ### Guides
 - [Investopedia: Set a Budget for Buying Your First Home](https://www.investopedia.com/personal-finance/how-set-budget-your-first-home/) - What an "affordable" mortgage actually looks like, as well as other expenses to keep in mind that go beyond the mortgage.
-- [Homiro: How Much Mortgage Can I Afford?](https://buy.homiro.com/resources/budgeting/) -  A comprehensive guide on mortgage budgeting. Starting with the lifestyle budget, and working through what mortgage lenders look for.
+- [Homiro: How Much Mortgage Can I Afford?](https://wiki.homiro.com/how-much-mortgage-can-i-afford) -  A comprehensive guide on mortgage budgeting. Starting with the lifestyle budget, and working through what mortgage lenders look for.
 - [MotleyFool: Factors Determining Mortgage Approval](https://www.fool.com/the-ascent/mortgages/factors-determining-mortgage-approval/) - Details the major factors mortgage lenders look for when they're considering your risk profile.
 
 ### Calculators
@@ -68,7 +68,7 @@ A compendium of resources for the home buyer who wants to know everything they c
 
 ### Guides
 - [RocketMortgage: Your House Hunting Checklist](https://www.rocketmortgage.com/learn/house-shopping) - A basic guide on what you should prioritize for your home search, as well as some tips and tactics for what to keep your eyes peeled for.
-- [Homiro: How to Search for a Home without a Realtor](https://buy.homiro.com/resources/home-search/) - A guide on how to search for homes without professional assistance. Includes tools and resources to evaluate your choices.
+- [Homiro: How to Search for a Home without a Realtor](https://wiki.homiro.com/how-to-search-for-a-home-without-a-realtor) - A guide on how to search for homes without professional assistance. Includes tools and resources to evaluate your choices.
 
 ## House Tours
 - [OpenDoor: What to Look for on a House Tour](https://www.opendoor.com/w/blog/what-to-look-for-on-a-house-tour) - A short guide on general best practices for private home showings; what to check out, what to ignore, and what questions you should be asking.
