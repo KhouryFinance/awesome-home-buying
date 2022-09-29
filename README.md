@@ -54,6 +54,9 @@ A compendium of resources for the home buyer who wants to know everything they c
 - [TheMortgageReports: Low to 0 Down-Payment Mortgage Options](https://themortgagereports.com/11306/buy-a-home-with-a-low-downpayment-or-no-downpayment-at-all) - A comprehensive look into the different types of mortgages that allow for less than a 20% down payment.
 - [CFPB: What is Private Mortgage Insurance (PMI)?](https://www.consumerfinance.gov/ask-cfpb/what-is-private-mortgage-insurance-en-122/) - Explains what down-payment brackets will trigger PMI, how it works, how it's paid, and when you can refinance out of it.
 
+## Commissions
+### Discount Realtors
+- [Khoury Finance - DIY Home Buying](https://www.khouryfinance.com/real-estate) - Save up to 50% of the buyer's side commission by taking on the fun parts of the real-estate process yourself.
 
 ## Home Search
 ### Platforms
