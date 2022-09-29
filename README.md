@@ -12,6 +12,10 @@ A compendium of resources for the home buyer who wants to know everything they c
 
 - [Down Payments](#down-payments)
 
+- [Commissions](#commissions)
+
+- [Interest Rates](#interest-rates)
+
 - [Home Search](#home-search)
 
 - [House Tours](#house-tours)
@@ -53,10 +57,17 @@ A compendium of resources for the home buyer who wants to know everything they c
 - [Reddit: Housing Down Payments 101 by /u/yes_its_him](https://www.reddit.com/r/personalfinance/comments/6tmh6v/housing_down_payments_101/) - A celebrated guide on down payments, how you can source them, and the consequences of a low down payment via private mortgage insurance.
 - [TheMortgageReports: Low to 0 Down-Payment Mortgage Options](https://themortgagereports.com/11306/buy-a-home-with-a-low-downpayment-or-no-downpayment-at-all) - A comprehensive look into the different types of mortgages that allow for less than a 20% down payment.
 - [CFPB: What is Private Mortgage Insurance (PMI)?](https://www.consumerfinance.gov/ask-cfpb/what-is-private-mortgage-insurance-en-122/) - Explains what down-payment brackets will trigger PMI, how it works, how it's paid, and when you can refinance out of it.
+- [Khoury Finance: What is private mortgage insurance (PMI)?](https://wiki.khouryfinance.com/what-is-premium-mortgage-insurance) - Private Mortgage Insurance explainer, how it works, and why you might consider paying 20% down to avoid it.
 
 ## Commissions
-### Discount Realtors
-- [Khoury Finance - DIY Home Buying](https://www.khouryfinance.com/real-estate) - Save up to 50% of the buyer's side commission by taking on the fun parts of the real-estate process yourself.
+### About Realtor Commissions
+- [Avoiding Real Estate Commissions](https://wiki.khouryfinance.com/everything-we-know-about-avoiding-real-estate-commissions) - Everything we know about saving on Realtor commissions.
+### Discount Real-Estate Providers
+- [Khoury Finance: DIY Home Buying](https://www.khouryfinance.com/real-estate) - Save up to 50% of the buyer's side commission by taking on the fun parts of the real-estate process yourself.
+
+## Interest Rates
+### Discount Points
+- [Khoury Finance: What is a Mortgage Rate Buydown?](https://wiki.khouryfinance.com/what-is-a-mortgage-rate-buydown) - A primer on mortgage rate buydowns, how they work, and how they can benefit you in the high rate market.
 
 ## Home Search
 ### Platforms
@@ -83,6 +94,7 @@ A compendium of resources for the home buyer who wants to know everything they c
 ### Contingencies
 - [NerdWallet: Common Real Estate Contingencies Home Buyers Should Know](https://www.nerdwallet.com/article/mortgages/buying-a-house-contingencies-disclosures) - Basic primer on what contingencies are, and how they can protect you from unfortunate surprises so you can pull out of the deal.
 - [RocketHomes: How Often do Contingent Offers Fall Through](https://www.rockethomes.com/blog/home-buying/how-often-do-contingent-offers-fall-through) - Details possible buyer and seller contingencies, and the risks associated with having too many as a buyer in a competitive market.
+- [KhouryFinance: What Does it Mean to Waive an Appraisal Contingency](https://wiki.khouryfinance.com/what-does-it-mean-to-waive-an-appraisal-contingency) - Appraisal Contingencies and everything you need to know about them.
 
 ### Disclosures
 - [Nolo: Required Disclosures When Selling U.S. Real Estate](https://www.nolo.com/legal-encyclopedia/required-disclosures-selling-real-estate-30027.html) - Explains the basics of disclosures, and what disclosures are required for the seller.
@@ -98,6 +110,8 @@ A compendium of resources for the home buyer who wants to know everything they c
 ### Appraisals
 - [Forbes: How Home Appraisals Work](https://www.forbes.com/advisor/mortgages/how-home-appraisals-work/) - Explains the fundamentals of house appraisal. Who organizes it, what occurs, who pays for it and why it's important.
 - [TheBalance: How to Deal with a Low Appraisal](https://www.thebalance.com/how-to-deal-with-a-low-appraisal-1798414) - Explains what can happen when an appraisal is below the listed price, as well as steps on how to challenge the appraisal. 
+- [Khoury Finance: What is an appraisal gap?](https://wiki.khouryfinance.com/what-is-an-appraisal-gap) - Appraisal gaps and how they can impact your transaction.
+
 ### Inspections
 - [Forbes: How a Home Inspection Protects You](https://www.forbes.com/advisor/mortgages/home-inspection/) - Outlines all the benefits of a home inspection from the buyer's point-of-view, as well as recommendations on what to do if the inspection uncovers issues with the home.
 - [Moving: Who Pays for Repairs After a Home Inspection](https://www.moving.com/tips/who-pays-for-repairs-after-a-home-inspection/) - Explains how contract contingencies will dictate who pays for needed repairs identified by inspection.
