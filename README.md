@@ -4,6 +4,8 @@ A compendium of resources for the home buyer who wants to know everything they c
 
 
 ## Content
+- [HomeGuessr](#homeguessr)
+
 - [Generalist Guides](#generalist-guides)
 
 - [Budgeting](#budgeting)
@@ -25,6 +27,10 @@ A compendium of resources for the home buyer who wants to know everything they c
 - [Escrow and Title](#escrow-and-title)
 
 - [Closing Costs](#closing-costs)
+
+
+## HomeGuessr
+- [HomeGuessr - Put your inner home appraiser to the test!](https://homeguessr.khouryfinance.com/) - Our free browser game where players guess the value of recently listed homes. See how much of a grip you have on modern property prices!
 
 ## Generalist Guides
 - [Michael Bluejay's Home Buyer's Guide](https://michaelbluejay.com/house/) - A commonly referenced internet classic, originally published in 1999. The author has updated it over the years and still remains a highly useful primer for home buyers.
