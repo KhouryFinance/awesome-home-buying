@@ -60,6 +60,8 @@ A compendium of resources for the home buyer who wants to know everything they c
 
 ## Down Payments
 -  [Bankrate: What is Home Down Payment](https://www.bankrate.com/mortgages/what-is-down-payment/) - The basics of down payments, your options, and the implications of each.
+
+- [SAA Homes — CHFA Down Payment Assistance](https://saahomes.com/chfa-down-payment-assistance/) - Colorado's first-time homebuyer programs explained: SmartStep, FirstStep, and Schools to Home, with income limits and purchase price caps by county.
 - [Reddit: Housing Down Payments 101 by /u/yes_its_him](https://www.reddit.com/r/personalfinance/comments/6tmh6v/housing_down_payments_101/) - A celebrated guide on down payments, how you can source them, and the consequences of a low down payment via private mortgage insurance.
 - [TheMortgageReports: Low to 0 Down-Payment Mortgage Options](https://themortgagereports.com/11306/buy-a-home-with-a-low-downpayment-or-no-downpayment-at-all) - A comprehensive look into the different types of mortgages that allow for less than a 20% down payment.
 - [CFPB: What is Private Mortgage Insurance (PMI)?](https://www.consumerfinance.gov/ask-cfpb/what-is-private-mortgage-insurance-en-122/) - Explains what down-payment brackets will trigger PMI, how it works, how it's paid, and when you can refinance out of it.
