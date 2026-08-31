@@ -59,6 +59,7 @@ A compendium of resources for the home buyer who wants to know everything they c
 
 
 ## Down Payments
+- [AccessFundsNow](https://www.accessfundsnow.com/) - Consulting for real estate investors to secure funding for earnest money, down payments, and property acquisition.
 -  [Bankrate: What is Home Down Payment](https://www.bankrate.com/mortgages/what-is-down-payment/) - The basics of down payments, your options, and the implications of each.
 - [Reddit: Housing Down Payments 101 by /u/yes_its_him](https://www.reddit.com/r/personalfinance/comments/6tmh6v/housing_down_payments_101/) - A celebrated guide on down payments, how you can source them, and the consequences of a low down payment via private mortgage insurance.
 - [TheMortgageReports: Low to 0 Down-Payment Mortgage Options](https://themortgagereports.com/11306/buy-a-home-with-a-low-downpayment-or-no-downpayment-at-all) - A comprehensive look into the different types of mortgages that allow for less than a 20% down payment.
