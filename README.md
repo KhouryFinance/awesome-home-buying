@@ -56,6 +56,7 @@ A compendium of resources for the home buyer who wants to know everything they c
 
 ### Calculators
 - [BankRate: Mortgage Rates](https://www.bankrate.com/mortgages/mortgage-rates/) - A thorough calculator and explainer for comparing mortgage rates.
+- [Lamuko: PITI Calculator](https://lamuko.com/piti-calculator/) - Estimates the full monthly payment (principal, interest, property tax, insurance, PMI and HOA), shows when PMI drops off, and gives a full amortization schedule. Free, no sign-up.
 
 
 ## Down Payments
