@@ -121,6 +121,7 @@ A compendium of resources for the home buyer who wants to know everything they c
 ### Inspections
 - [Forbes: How a Home Inspection Protects You](https://www.forbes.com/advisor/mortgages/home-inspection/) - Outlines all the benefits of a home inspection from the buyer's point-of-view, as well as recommendations on what to do if the inspection uncovers issues with the home.
 - [Moving: Who Pays for Repairs After a Home Inspection](https://www.moving.com/tips/who-pays-for-repairs-after-a-home-inspection/) - Explains how contract contingencies will dictate who pays for needed repairs identified by inspection.
+- [Roof Cost Data: Roof Replacement Cost Calculator](https://roofcostdata.com/roof-replacement-cost-calculator) - Estimates U.S. roof replacement costs by roof size, pitch, material, tear-off needs, and location to help buyers budget for a major inspection finding.
 
 
 ## Closing Costs
